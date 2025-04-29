@@ -32,7 +32,7 @@ const Header = () => {
           {/* Logo */}
           <RouterLink to="/" className="flex items-center">
             {/* <LazyImage src={logo} alt="BuyOneGram"  /> */}
-            <img src="../../src/assets/logo.png" alt="BuyOneGram" className="w-auto h-20" />
+            <img src="/logo.png" alt="BuyOneGram" className="w-auto h-20" />
           </RouterLink>
 
           {/* Desktop Navigation */}
